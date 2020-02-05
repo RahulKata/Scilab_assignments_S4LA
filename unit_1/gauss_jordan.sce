@@ -1,7 +1,7 @@
 clc
 funcprot(0)   //if variables are redefined do nothing
 format('v',10)
-A = input("Enter the matrix[NxN]: ")
+A = input("Enter a matrix[NxN]: ")
 
 function gauss_jordan(A)
     
