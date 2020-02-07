@@ -27,3 +27,6 @@ function lu_decomp(A)
     disp(L,'Lower traingular Matrix L = ')
     
 endfunction
+
+
+//PES1201802018
