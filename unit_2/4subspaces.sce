@@ -33,3 +33,6 @@ function subspaces(A)
     disp(lns,'Left Null Space = '); 
     
 endfunction
+
+
+//Rahul Kata
